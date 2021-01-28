@@ -8,7 +8,7 @@
 * Ensure that the spot is clear from any dry materials, such as dry grass and leaves. 
 
 ### 2. Gather materials.
-* Ensure that the spot is clear from any dry materials, such as dry grass and leaves.Ideally, the dry materials should fall under three categories, tinder, kindling, and fuel wood. 
+* Ideally, the dry materials should fall under three categories, tinder, kindling, and fuel wood. 
 * Tinder allows the fire to start fast using dry leaves or bark.
 * Kindling preserves the tinder's flame with small twigs and branches.
 * Fuel wood is used to keep the fire burning for extended periods of time with large logs
