@@ -21,7 +21,7 @@
 * The Tepee fire (b) provides even heat and can be easily lit.
 *The Log Cabin fire (c) offers a slow burn with a flat top, which is most ideal for cooking. 
 
-![](LeanTo.jpg)               ![](tepee2.jpg)                ![](LogCabin.jpg)
+![](LeanTo.jpg)           
 
 ### 4(a). Build the Lean-To 
 * Place a large log.
