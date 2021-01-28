@@ -19,7 +19,7 @@
 * There are many different types of campfire constructions; the three that we will focus on are the Lean-To, the Tepee, and the Log Cabin. 
 * The Lean-To fire (a) is best for poor conditions, such as wind and dampness.
 * The Tepee fire (b) provides even heat and can be easily lit.
-*The Log Cabin fire (c) offers a slow burn with a flat top, which is most ideal for cooking. 
+* The Log Cabin fire (c) offers a slow burn with a flat top, which is most ideal for cooking. 
 
 
 
@@ -54,6 +54,6 @@
 
 ### 6. Put out the fire
 * When you are done, it is important to extinguish the fire with water.
-* Failure to do so could result in a forest or home fire.
+* ***Failure to do so could result in a forest fire.***
 
 ![](Smokey.jpg)
